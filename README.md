@@ -47,5 +47,10 @@ This Official (ISC)² Certified in Cybersecurity (CC) self-paced course provides
 35. Discuss the importance of security awareness training. 
 36. Practice the terminology and review concepts of network operations.
 
-
+---
+### 🙌 Reach Me @
+### Waggari Misganu Ebsa, Certified in Cyber Security.
+### Github link: https://github.com/Wagarimisganu-github
+#### Email: wagarimisganu12@gmail.com
+### Linkedin: https://www.linkedin.com/in/waggari-misganu-ebsa-352601317
 
